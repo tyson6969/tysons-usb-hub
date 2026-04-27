@@ -24,3 +24,10 @@ fetures
 it attaches udner my desk
 cool hexagon desgin
 
+
+Usb hub case
+[text](<../../../Downloads/usb hub.3mf>)
+
+
+pcb files
+[text](../../../Downloads/Gerber_PCB1_2026-04-27.zip)

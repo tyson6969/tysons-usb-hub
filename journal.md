@@ -66,3 +66,7 @@ day 4- the case 2026-04-22
 
 alrr so i did a lot of things i finally started with cad which is i kind of know some of cad and i started by getting the 3d fiel of the pcb so i can design around it in cad but for some reason it just didn't want to upload but i finally got it to in fusion but then the usb c didn't upload so i tried seeing why and it just didn't tell me in easyeda it was like this "ur usb..." but i could not liek see the rest of the text if yk what i mean there is nothing i can do about it so i just tried to eyeball it anyways i started by making a simple box then i cut the holes of the usb a and usb c same with the downstream and i filleted those around kept playing with it until i saw something i like but when i filleted the box it self it was cutting in to the pcb so i had to re define it to get it working and it finally did work i also then added m.2 holes for mounting i added magnet holes so i can attach them under my desk i made them hidden by just 3 layer and after i did them i realized i didint have any tolerance so i added those i tried doing a pattern at top cus it looked so bland but i failed then i made a hexagons which look cool tbh and thats it i am kinda meh of how it turned out but i will edit it much more
 ![alt text](image-5.png)
+
+day 5- FINISHED the case 2026-04-27
+
+i did not do alot i jsut made a simple conmnecter then opened it in bambu lab and now its done
