@@ -31,3 +31,5 @@ Usb hub case
 
 pcb files
 [text](../../../Downloads/Gerber_PCB1_2026-04-27.zip)
+
+no ai is used in this project
