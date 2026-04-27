@@ -1,3 +1,22 @@
+
+title	tysons usb hub
+author	Tyson
+description	just a good usb hub to attach under my desk
+created_at	2026-06-11
+total = 6.9 hours hehehe
+
+
+
+
+
+
+
+
+
+
+
+
+
 Day 1 - 2026-04-11 8:00 PM - the schematics
 
 45min tracked
