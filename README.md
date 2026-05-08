@@ -28,11 +28,11 @@ cool hexagon desgin
 
 
 Usb hub case
-[case](<../../../Downloads/usb hub.3mf>)
+[case](<C:\Users\pc\Documents\usb hub\tysons-usb-hub\usb hub.3mf>)
 
 
 pcb files
-[gerber filers](../../../Downloads/Gerber_PCB1_2026-04-27.zip)
+[gerber filers](C:\Users\pc\Documents\usb hub\tysons-usb-hub\Gerber_PCB1_2026-04-27.zip)
 
 
 demo kinda
