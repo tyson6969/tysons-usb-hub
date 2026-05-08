@@ -32,7 +32,7 @@ Usb hub case
 
 
 pcb files
-[gerber files](tysons-usb-hub/BOM_Board1_PCB1_2026-04-27.xlsx)
+[gerber files](https://github.com/tyson6969/tysons-usb-hub/blob/main/Gerber_PCB1_2026-04-27.zip)
 
 
 demo kinda
