@@ -16,8 +16,8 @@ case desgin <img width="998" height="576" alt="image" src="https://github.com/us
 
 
 BOM
-[BOM](tysons-usb-hub/BOM_Board1_PCB1_2026-04-27.xlsx)
-
+[BOM](https://github.com/tyson6969/tysons-usb-hub/blob/main/BOM_Board1_PCB1_2026-04-27.xlsx)
+ 
 
 fetures 
 
@@ -28,7 +28,7 @@ cool hexagon desgin
 
 
 Usb hub case
-[case](tysons-usb-hub/usb hub.3mf)
+[case](https://github.com/tyson6969/tysons-usb-hub/blob/main/usb%20hub.3mf)
 
 
 pcb files
